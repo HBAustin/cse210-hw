@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Hello Prep3 World!");
 
-        string userMagicNumber;
+        string userNumber;
         string userGuess;
         int number;
         int guess;
